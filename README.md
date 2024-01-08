@@ -2,7 +2,7 @@
 
 - up & down 게임은 5번의 기회안에 랜덤숫자를 맞추는 미니게임입니다.
     
-  
+  ![up](https://github.com/mijinSeo/UpDownGame/assets/127110439/2f471adb-dff1-4a7a-88f4-21ed04c0c6c1)
 
 📌https://mijinseo.github.io/UpDownGame/up_down_game.html 
 
